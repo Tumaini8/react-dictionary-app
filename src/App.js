@@ -12,10 +12,15 @@ function App() {
         <main>
           <Dictionary />
           <footer className="App-footer">
-            Coded by Tumaini Edgar{" "}
-            <a href="https://github.com/Tumaini8/react-dictionary-project">
-              open-source code from Github
-            </a>
+            <em>
+              {" "}
+              <p className="mt-4 text-success">
+                Coded by Tumaini Edgar,{" "}
+                <a href="https://github.com/Tumaini8/react-dictionary-project">
+                  open-source code from Github
+                </a>
+              </p>
+            </em>
           </footer>
         </main>
       </div>
