@@ -11,7 +11,12 @@ function App() {
         </header>
         <main>
           <Dictionary />
-          <footer className="App-footer">Coded by Tumaini Edgar</footer>
+          <footer className="App-footer">
+            Coded by Tumaini Edgar{" "}
+            <a href="https://github.com/Tumaini8/react-dictionary-project">
+              open-source code from Github
+            </a>
+          </footer>
         </main>
       </div>
     </div>
