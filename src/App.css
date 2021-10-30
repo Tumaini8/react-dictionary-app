@@ -2,9 +2,16 @@
   max-width: 400px;
   display: block;
   margin: 0 auto;
+  
  
 }
 .App-footer {
   text-align: center;
   margin: 10px;
+}
+body{
+  background: #f9f8fe;
+}
+a {
+  color: #9670f4;
 }

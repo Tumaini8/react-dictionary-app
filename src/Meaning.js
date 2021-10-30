@@ -5,6 +5,7 @@ export default function Meaning(props) {
   console.log(props.meaning);
   return (
     <div className="Meaning">
+      <section>
       <h2>{props.meaning.PartofSpeech}</h2>
       {props.meaning.definitions.map(function (definition, index) {
         return (
@@ -19,6 +20,7 @@ export default function Meaning(props) {
           </div>
         );
       })}
+      </section>
     </div>
   );
 }

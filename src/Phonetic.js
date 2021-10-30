@@ -8,7 +8,7 @@ export default function Phonetic(props) {
       {props.phonetic.text}
       <br />
       <a href={props.phonetic.audio} rel="noreferrer" target="_blank">
-        <Loader type="Audio" color="#00BFFF" height={20} width={20} />
+         <Loader type="Audio" color="#9670f4" height={40} width={40} />
       </a>
     </div>
   );
