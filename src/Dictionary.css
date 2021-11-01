@@ -1,21 +1,20 @@
-.Dictionary-form{
-    text-align: center;
-   
+.Dictionary-form {
+  text-align: center;
 }
-h2{
-    text-transform: capitalize;
+h2 {
+  text-transform: capitalize;
 }
-.Dictionary section{
-    background: white;
-    padding: 30px;
-    border-radius: 12px;
-    box-shadow: 5px 5px 5px rgba(0,0,0, 10%);
-    margin: 20px 0;
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 10%);
+  margin: 20px 0;
 }
-.Dictionary input{
-    width: 100%;
-    padding: 12px 8px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    color: #333;
+.Dictionary input {
+  width: 100%;
+  padding: 12px 8px;
+  border: 1px solid rgb(218, 245, 255);
+  border-radius: 5px;
+  border-color: #a198ce;
 }

@@ -1,0 +1,19 @@
+.btn-success {
+  color: #fff;
+  border-color: rgb(209, 175, 209);
+  padding-right: 19px;
+  margin: 15px;
+  background-color: white;
+  margin-bottom: 0;
+  border-radius: 40px;
+}
+.Phonetic a{
+    text-decoration: none;
+    color: #333;
+}
+.Phonetic .btn-success:hover{
+    background-color: rgb(209, 175, 209);
+}
+.Phonetic{
+    font-size: 20px;
+}

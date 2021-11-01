@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={Logo} className="App-logo img-fluid" alt="logo" />
+          <img src={Logo} className="App-logo img-fluid" alt="logo" />{" "}
+          <h1>
+            <em>Welcome to my Dictionary Application</em>🌍
+          </h1>
         </header>
         <main>
           <Dictionary />

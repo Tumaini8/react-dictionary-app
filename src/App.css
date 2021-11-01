@@ -1,15 +1,13 @@
 .App-logo {
-  max-width: 400px;
+  max-width: 200px;
   display: block;
   margin: 0 auto;
-  
- 
 }
 .App-footer {
   text-align: center;
   margin: 10px;
 }
-body{
+body {
   background: #f9f8fe;
 }
 a {
