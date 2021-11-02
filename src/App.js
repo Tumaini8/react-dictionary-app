@@ -1,4 +1,4 @@
-import Logo from "./Logo.jpg";
+import ShecodesLogo from "./ShecodesLogo.png";
 import Dictionary from "./Dictionary";
 import "./App.css";
 
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={Logo} className="App-logo img-fluid mt-3" alt="logo" />{" "}
+          <img src={ShecodesLogo} className="App-logo img-fluid mt-3" alt="logo" />{" "}
           <h1>
             <em>Welcome to my Dictionary Application</em>🌍
           </h1>

@@ -5,7 +5,7 @@ import Results from "./Results";
 import Photos from "./Photos.js";
 
 export default function Dictionary() {
-  let [word, setWord] = useState("sunset");
+  let [word, setWord] = useState("Flowers");
   let [results, setResults] = useState(null);
   let [loaded, setLoaded] = useState(false);
   let[photos, setPhotos]= useState(null);
@@ -50,7 +50,7 @@ export default function Dictionary() {
             <input
               type="search"
               placeholder="Search for a word"
-              defaultValue="Sunset"
+              defaultValue="FLowers"
               onChange={handleSearch}
             />
           </form>

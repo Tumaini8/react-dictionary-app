@@ -17,9 +17,9 @@ export default function Photos(props){
                              alt="word-photos"
                            />
                          </div>
-                         <div className="col-5">
+                         <div className="col-6">
                          <img
-                           src={photo.src.large}
+                           src={photo.src.landscape}
                            className="img-fluid"
                            key={index}
                            alt="word-photos"
