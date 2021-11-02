@@ -14,7 +14,12 @@ a {
   color: #9670f4;
 }
 .App {
-  max-width: 960px;
+  max-width: 860px;
   display: block;
   margin: 0 auto;
+}
+@media (max-width: 900px) {
+  h1 {
+    font-size: 24px;
+  }
 }
