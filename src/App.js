@@ -19,7 +19,7 @@ function App() {
               {" "}
               <p className="mt-4 text-success">
                 Coded by Tumaini Edgar,{" "}
-                <a href="https://github.com/Tumaini8/react-dictionary-project">
+                <a href="https://github.com/Tumaini8/react-dictionary-app">
                   open-source code from Github
                 </a>
               </p>
